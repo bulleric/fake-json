@@ -3,12 +3,28 @@
 		"headerText": "UniqueCosmos is awesome"
 	},
 	"products": [{
+      "title": "Product1",
 			"teaserImage": "",
 			"teaserDescription": "Lorem Ipsum dol amit",
 			"productMockup": "",
 			"storyTellerText": "Lorem Ipsum dol amit bla"
 		},
 		{
+      "title": "Product2",
+			"teaserImage": "",
+			"teaserDescription": "Lorem Ipsum dol amit",
+			"productMockups": "",
+			"storyTellerText": "Lorem Ipsom dol amit bla"
+		},
+    {
+      "title": "Product3",
+			"teaserImage": "",
+			"teaserDescription": "Lorem Ipsum dol amit",
+			"productMockups": "",
+			"storyTellerText": "Lorem Ipsom dol amit bla"
+		},
+    {
+      "title": "Product4",
 			"teaserImage": "",
 			"teaserDescription": "Lorem Ipsum dol amit",
 			"productMockups": "",
