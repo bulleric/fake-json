@@ -1,0 +1,18 @@
+{
+	"gallery": {
+		"headerText": "UniqueCosmos is awesome"
+	},
+	"products": [{
+			"teaserImage": "",
+			"teaserDescription": "Lorem Ipsum dol amit",
+			"productMockup": "",
+			"storyTellerText": "Lorem Ipsum dol amit bla"
+		},
+		{
+			"teaserImage": "",
+			"teaserDescription": "Lorem Ipsum dol amit",
+			"productMockups": "",
+			"storyTellerText": "Lorem Ipsom dol amit bla"
+		}
+	]
+}
