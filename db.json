@@ -3,32 +3,55 @@
 		"headerText": "UniqueCosmos is awesome"
 	},
 	"products": [{
-      "title": "Product1",
-			"teaserImage": "",
-			"teaserDescription": "Lorem Ipsum dol amit",
+      "uri": "confused-bird",
+      "title": "Confused Bird",
+			"teaserImage": "bird.jpg",
+			"teaserDescription": "A Colorful Story",
 			"productMockup": "",
 			"storyTellerText": "Lorem Ipsum dol amit bla"
 		},
 		{
-      "title": "Product2",
-			"teaserImage": "",
-			"teaserDescription": "Lorem Ipsum dol amit",
+      "uri": "flowerful",
+      "title": "Flowerful",
+			"teaserImage": "flowerful.jpg",
+			"teaserDescription": "What's Beyond Love",
 			"productMockups": "",
 			"storyTellerText": "Lorem Ipsom dol amit bla"
 		},
     {
-      "title": "Product3",
-			"teaserImage": "",
-			"teaserDescription": "Lorem Ipsum dol amit",
+      "title": "riverside",
+      "title": "Riverside",
+			"teaserImage": "riverside.jpg",
+			"teaserDescription": "The Places You'll Go",
 			"productMockups": "",
 			"storyTellerText": "Lorem Ipsom dol amit bla"
 		},
     {
-      "title": "Product4",
-			"teaserImage": "",
-			"teaserDescription": "Lorem Ipsum dol amit",
+      "uri": "cosmos",
+      "title": "Cosmos",
+			"teaserImage": "cosmos.jpg",
+			"teaserDescription": "The Broken Circulation",
+			"productMockups": "",
+			"storyTellerText": "Lorem Ipsom dol amit bla"
+		},
+    {
+      "uri": "wolf",
+      "title": "Wolf",
+			"teaserImage": "wolf.jpg",
+			"teaserDescription": "A Miracle was born",
+			"productMockups": "",
+			"storyTellerText": "Lorem Ipsom dol amit bla"
+		},
+    {
+      "uri": "last-leaf",
+      "title": "Last Leaf",
+			"teaserImage": "last-leaf.jpg",
+			"teaserDescription": "Nature Or Robotic",
 			"productMockups": "",
 			"storyTellerText": "Lorem Ipsom dol amit bla"
 		}
+
+
+
 	]
 }
